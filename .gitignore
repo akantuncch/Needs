@@ -119,8 +119,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-venv-Embeddings
-venv-f1
+venv-needs/
 
 # Spyder project settings
 .spyderproject
@@ -155,3 +154,5 @@ cython_debug/
 
 # pickle file for movie embeddings project
 movie_embeddings_demo.pkl
+
+scratch.txt
