@@ -27,7 +27,7 @@ To use this notebook, you'll need to install the following Python libraries:
 You can install these using pip:
 
 ```bash
-pip install openai python-dotenv pandas numpy tenacity pickle5 tiktoken nomic openai-embeddings-utils
+pip install openai python-dotenv pandas numpy tenacity pickle tiktoken nomic
 ```
 
 ## Environment Variables
