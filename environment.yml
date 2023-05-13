@@ -1,0 +1,8 @@
+name: venv-needs
+dependencies:
+  - numpy
+  - pandas
+  - openai
+  - python-dotenv
+  - pickle
+  - tiktoken
