@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "Needs",
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.wordWrap": "on",
+		"editor.formatOnPaste": true,
+		"explorer.sortOrder": "type",
+		"editor.acceptSuggestionOnEnter": "smart",
+	}
+}
