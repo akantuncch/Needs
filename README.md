@@ -15,14 +15,14 @@ This repository contains a Jupyter notebook that fetches and processes data from
 
 To use this notebook, you'll need to install the following Python libraries:
 
-- `openai`
+- `openai` [Note: You'll need your API key. See [Quickstart](https://platform.openai.com/docs/quickstart).]
 - `python-dotenv`
 - `pandas`
 - `numpy`
 - `tenacity`
 - `pickle`
 - `tiktoken`
-- `nomic`
+- `nomic` [Note: Nomic requires an account. See [Quickstart](https://docs.nomic.ai/#quickstart).]
 
 You can install these using pip:
 
